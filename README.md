@@ -1,3 +1,5 @@
+# Financial Risks
+
 **Course Financial Risks in 2024 at HSE University**
 
 Целью проекта является создание структуры кредитного рейтинга для банков по методологии Moody's. 
